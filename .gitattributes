@@ -1,1 +1,2 @@
 subset_snvs_protein_coding_1kGPhg38.tsv.zip filter=lfs diff=lfs merge=lfs -text
+results/subset_snvs_protein_coding_1kGPhg38* filter=lfs diff=lfs merge=lfs -text
