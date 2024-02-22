@@ -1,5 +1,6 @@
 # Introduced by Ersilia
 .DS_Store
+subset_snvs_protein_coding_1kGPhg38.tsv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
