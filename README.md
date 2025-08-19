@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/647370654.svg)](https://doi.org/10.5281/zenodo.16906018)
+
 # PharmacoGx ARSA
 Look for abundant region specific alleles for pharmacogenomics
 
